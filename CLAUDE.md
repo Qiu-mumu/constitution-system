@@ -3,7 +3,7 @@
 输出的格式永远开头带个emoji，结尾带上个嘻嘻
 
 > 🧬 DNA版（日常加载）: `CLAUDE-DNA.md`（省token首选）
-> 🗺️ 路线图: `~/Documents/trae_projects/ROADMAP.md` | 工作流: `WORKFLOW.md`
+> 🗺️ 路线图: `ROADMAP.md` | 工作流: `WORKFLOW.md`
 > 📜 完整版（按需加载）: 说"用宪法跑一下"才加载本文件
 
 ---

@@ -62,7 +62,7 @@
 
 ```bash
 # 每周一跑
-cd ~/Documents/trae_projects
+cd /path/to/project
 python test_constitution.py
 
 # 期望：11/11 通过, 0 失败
